@@ -4,11 +4,19 @@
 
 - Raspberry Pi Zero W
 
+<img src="/img/Raspberry_Pi_Zero_WH.jpg" width="400">
+
 - HX711 Load Cell Amplifier
+
+<img src="/img/HX711.jpg" width="400">
 
 - 10KG Load Cell
 
+<img src="/img/10KG_Load_Cell.jpg" width="400">
+
 - Magnetic Reed Switch
+
+<img src="/img/Magnetic_Reed_Switch.jpg" width="400">
 
 - 5K Resistor
 
